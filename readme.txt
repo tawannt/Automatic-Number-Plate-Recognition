@@ -1,0 +1,1 @@
+ Link video quay lại quá trình chạy code và giải thích mô hình: https://youtu.be/egr0ZGhe6ZU
